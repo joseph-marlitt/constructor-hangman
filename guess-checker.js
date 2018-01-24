@@ -1,6 +1,0 @@
-alreadyGuessed = [];
-
-var letter = function(){
-    
-}
-
