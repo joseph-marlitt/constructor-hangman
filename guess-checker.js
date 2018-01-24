@@ -1,0 +1,6 @@
+alreadyGuessed = [];
+
+var letter = function(){
+    
+}
+
